@@ -1,2 +1,2 @@
 # Analisando-Dados-da-Empresa
-Módulo_1_Python do Zero
+Projeto do Módulo_1_Python do Zero
